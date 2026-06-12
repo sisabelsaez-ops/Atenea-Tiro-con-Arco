@@ -3,7 +3,7 @@
 header {
   background-color: rgb(71, 0, 143);
   width: 100%;
-  padding: 5px;
+  padding: 10px;
 }
 
 body {
@@ -41,7 +41,7 @@ nav a {
 
 .modalidades {
   font-family: 'Plus Jakarta Sans', sans-serif;
-  background-color: #9991c7;
+  background-color: #afa9cf;
   padding: 20px;
   img {
     max-width: 100%;
@@ -65,7 +65,7 @@ nav a {
 .educacion {
   font-family: 'Plus Jakarta Sans', sans-serif;
   padding: 20px;
-  background-color: #9991c7;
+  background-color: #afa9cf;
   img {
     max-width: 100%;
     justify-content: center;
@@ -78,6 +78,16 @@ nav a {
   padding: 20px;
   background-color: #d3a4ee;
 }
+
+.servicios .row {
+  align-items: center;
+}
+
+.servicios p {
+  display: flex;
+  text-align: justify;
+  justify-content: center;
+  }
 
 .carousel {
   max-width: 700px;
