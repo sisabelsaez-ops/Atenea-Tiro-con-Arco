@@ -99,6 +99,33 @@ nav a {
   margin: 0;
 }
 
+.nosotros {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 20px;
+  padding: 20px;
+  background-color: #d2cbf8;
+}
+
+.nosotros .col-md-9 img {
+  display: block;
+  padding-top: 20px;
+  margin-inline-start: 70px;
+  width: 200px;
+  align-items: center;
+}
+
+.nosotros .col-md-12 iframe {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.nosotros .col-md-12 p {
+  text-align: justify;
+  margin: 0 auto;
+  max-width: 840px;
+}
+
 h1 {
     color: rgb(247, 241, 241);
     font-size: 45px;
